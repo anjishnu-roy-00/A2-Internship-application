@@ -1,0 +1,445 @@
+1666017021145	geckodriver	INFO	Listening on 127.0.0.1:58107
+1666017194537	geckodriver	INFO	Listening on 127.0.0.1:58247
+1666017394417	geckodriver	INFO	Listening on 127.0.0.1:58299
+1666017397510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilezbw05O"
+1666017398011	Marionette	INFO	Marionette enabled
+1666017398015	Marionette	INFO	Listening on port 58311
+Read port: 58311
+WebDriver BiDi listening on ws://127.0.0.1:58300
+1666017398154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilezbw05O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58300/devtools/browser/a114142a-fcd0-4b7b-a438-45c3828472b4
+1666025569538	Marionette	INFO	Stopped listening on port 58311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile4zMS43"
+1666017458080	Marionette	INFO	Marionette enabled
+1666017458086	Marionette	INFO	Listening on port 58420
+Read port: 58420
+WebDriver BiDi listening on ws://127.0.0.1:58406
+1666017458221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile4zMS43\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58406/devtools/browser/ffdd681c-7421-4523-ada4-9792f95dbda0
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666023504508	Marionette	INFO	Stopped listening on port 58420
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilevEbhgr"
+1666023419440	Marionette	INFO	Marionette enabled
+1666023419450	Marionette	INFO	Listening on port 61175
+Read port: 61175
+WebDriver BiDi listening on ws://127.0.0.1:61163
+1666023419636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilevEbhgr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61163/devtools/browser/7aa1e624-0158-478b-bdec-fa83a25828a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666028962603	Marionette	INFO	Stopped listening on port 61175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileNzI5SC"
+1666025564605	Marionette	INFO	Marionette enabled
+1666025564615	Marionette	INFO	Listening on port 62360
+Read port: 62360
+WebDriver BiDi listening on ws://127.0.0.1:62349
+1666025564815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileNzI5SC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62349/devtools/browser/e99c157d-ddd4-42fd-a382-3eab2cb0cdee
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666028552845	Marionette	INFO	Stopped listening on port 62360
+1666028950942	geckodriver	INFO	Listening on 127.0.0.1:64945
+1666028954002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileKj6KB5"
+1666028954831	Marionette	INFO	Marionette enabled
+1666028954839	Marionette	INFO	Listening on port 64957
+Read port: 64957
+WebDriver BiDi listening on ws://127.0.0.1:64946
+1666028955022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileKj6KB5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64946/devtools/browser/11230414-0c19-4514-96ab-2ee84eb1066c
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666030337189	geckodriver	INFO	Listening on 127.0.0.1:49424
+1666030340249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileqptp9u"
+1666030341039	Marionette	INFO	Marionette enabled
+1666030341045	Marionette	INFO	Listening on port 49436
+Read port: 49436
+WebDriver BiDi listening on ws://127.0.0.1:49425
+1666030341217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileqptp9u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49425/devtools/browser/e6f588d8-a5b8-4f56-8e99-019e62e4a1bf
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666030909627	Marionette	INFO	Stopped listening on port 49436
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile0yN0J4"
+1666030853180	Marionette	INFO	Marionette enabled
+1666030853190	Marionette	INFO	Listening on port 49852
+Read port: 49852
+WebDriver BiDi listening on ws://127.0.0.1:49839
+1666030853423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile0yN0J4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49839/devtools/browser/3297c90e-e596-4e19-8f8f-97c587b5c66f
+1666030910559	Marionette	INFO	Stopped listening on port 49852
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileI1gj2J"
+1666030867219	Marionette	INFO	Marionette enabled
+1666030867229	Marionette	INFO	Listening on port 49883
+Read port: 49883
+WebDriver BiDi listening on ws://127.0.0.1:49871
+1666030867495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileI1gj2J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49871/devtools/browser/4fb5d2df-1895-4550-a455-17276c24c536
+1666030913044	Marionette	INFO	Stopped listening on port 49883
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666030919203	geckodriver	INFO	Listening on 127.0.0.1:49938
+1666030922222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileD1xmZA"
+1666030922915	Marionette	INFO	Marionette enabled
+1666030922922	Marionette	INFO	Listening on port 49951
+Read port: 49951
+WebDriver BiDi listening on ws://127.0.0.1:49939
+1666030923082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileD1xmZA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49939/devtools/browser/a1290017-936c-47c9-9162-3596b1b5af4b
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666031125839	geckodriver	INFO	Listening on 127.0.0.1:50200
+1666031128876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilexC27tl"
+1666031130138	Marionette	INFO	Marionette enabled
+1666031130154	Marionette	INFO	Listening on port 50212
+Read port: 50212
+WebDriver BiDi listening on ws://127.0.0.1:50201
+1666031130542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilexC27tl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50201/devtools/browser/8c57e6d0-8d88-4136-8c7d-a07de38f3abe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666074361763	geckodriver	INFO	Listening on 127.0.0.1:64078
+1666074364818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilen7csmS"
+1666074365634	Marionette	INFO	Marionette enabled
+1666074365649	Marionette	INFO	Listening on port 64089
+Read port: 64089
+WebDriver BiDi listening on ws://127.0.0.1:64079
+1666074366109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilen7csmS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64079/devtools/browser/54f61fb4-3a7b-4729-96ac-17f40a10445b
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666074471130	geckodriver	INFO	Listening on 127.0.0.1:64211
+1666074474184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileeB3aJq"
+1666074475482	Marionette	INFO	Marionette enabled
+1666074475495	Marionette	INFO	Listening on port 64221
+Read port: 64221
+WebDriver BiDi listening on ws://127.0.0.1:64212
+1666074475753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileeB3aJq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64212/devtools/browser/6595cfe9-ac2d-43f3-84a7-3ad3871b9322
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666074509107	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666098902102	geckodriver	INFO	Listening on 127.0.0.1:49562
+1666098905147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileEC6L5z"
+1666098906031	Marionette	INFO	Marionette enabled
+1666098906040	Marionette	INFO	Listening on port 49580
+Read port: 49580
+WebDriver BiDi listening on ws://127.0.0.1:49563
+1666098906273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileEC6L5z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49563/devtools/browser/52bddbe7-3e80-4ac0-a7c1-bf6f28ca944f
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1666105317749	Marionette	INFO	Stopped listening on port 49580
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile9oDdYz"
+1666099980521	Marionette	INFO	Marionette enabled
+1666099980532	Marionette	INFO	Listening on port 50407
+Read port: 50407
+WebDriver BiDi listening on ws://127.0.0.1:50394
+1666099980851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile9oDdYz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50394/devtools/browser/587591be-83b0-43ff-8a3a-736bfdfdf791
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666106761526	Marionette	INFO	Stopped listening on port 50407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilenNYjYA"
+1666105421751	Marionette	INFO	Marionette enabled
+1666105421756	Marionette	INFO	Listening on port 52636
+WebDriver BiDi listening on ws://127.0.0.1:52627
+Read port: 52636
+1666105422045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilenNYjYA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52627/devtools/browser/e4a2f58e-7d56-4298-9f90-e00f15f92529
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666106547289	Marionette	INFO	Stopped listening on port 52636
+[Parent 13536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+cal\\Temp\\rust_mozprofilesxAERN"
+1666105648479	Marionette	INFO	Marionette enabled
+1666105648483	Marionette	INFO	Listening on port 52744
+Read port: 52744
+WebDriver BiDi listening on ws://127.0.0.1:52735
+1666105648630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilesxAERN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52735/devtools/browser/fe8aadc2-1c6c-40c7-9fe7-aafca6ee795e
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666106762210	Marionette	INFO	Stopped listening on port 52744
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileELt4Ih"
+1666105814915	Marionette	INFO	Marionette enabled
+1666105814920	Marionette	INFO	Listening on port 52897
+WebDriver BiDi listening on ws://127.0.0.1:52886
+Read port: 52897
+1666105815214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileELt4Ih\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52886/devtools/browser/de69b8c4-1447-49af-b67c-d153cb9f13bc
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666106508048	Marionette	INFO	Stopped listening on port 52897
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilefPBEMq"
+1666106386052	Marionette	INFO	Marionette enabled
+1666106386056	Marionette	INFO	Listening on port 53507
+Read port: 53507
+WebDriver BiDi listening on ws://127.0.0.1:53498
+1666106386154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilefPBEMq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53498/devtools/browser/d3607801-96fd-4e9e-922b-46c0cad8ff4f
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666106763157	Marionette	INFO	Stopped listening on port 53507
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofiledfxy8k"
+1666106621585	Marionette	INFO	Marionette enabled
+1666106621590	Marionette	INFO	Listening on port 53672
+Read port: 53672
+WebDriver BiDi listening on ws://127.0.0.1:53662
+1666106621700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofiledfxy8k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53662/devtools/browser/e8db634a-e179-4d12-a17b-32fdba6a97e7
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666106764189	Marionette	INFO	Stopped listening on port 53672
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666106847966	geckodriver	INFO	Listening on 127.0.0.1:53820
+1666106851049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileabsx8u"
+1666106851341	Marionette	INFO	Marionette enabled
+1666106851345	Marionette	INFO	Listening on port 53831
+Read port: 53831
+WebDriver BiDi listening on ws://127.0.0.1:53821
+1666106851438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileabsx8u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53821/devtools/browser/b26dbd40-3c6e-4689-8068-02d521ecc3ca
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666107093285	Marionette	INFO	Stopped listening on port 53831
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile8Di1Hi"
+1666107085814	Marionette	INFO	Marionette enabled
+1666107085821	Marionette	INFO	Listening on port 54003
+Read port: 54003
+WebDriver BiDi listening on ws://127.0.0.1:53993
+1666107085934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile8Di1Hi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53993/devtools/browser/c150ad93-6d1b-4eea-a498-bcad335897c7
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666107202063	Marionette	INFO	Stopped listening on port 54001666107202806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileZD81Vl"
+1666107203151	Marionette	INFO	Marionette enabled
+1666107203156	Marionette	INFO	Listening on port 54105
+WebDriver BiDi listening on ws://127.0.0.1:54096
+Read port: 54105
+1666107203371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileZD81Vl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54096/devtools/browser/408af85a-244b-414d-9b75-192ded1084d6
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666110371341	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1666110430044	Marionette	INFO	Stopped listening on port 54105
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ocal\\Temp\\rust_mozprofileUTdyVq"
+1666109267428	Marionette	INFO	Marionette enabled
+1666109267438	Marionette	INFO	Listening on port 55281
+Read port: 55281
+WebDriver BiDi listening on ws://127.0.0.1:55272
+1666109267640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileUTdyVq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55272/devtools/browser/2bb8cd95-00d9-4111-a2d7-4b7d510e3957
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666110431581	Marionette	INFO	Stopped listening on port 55281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilej9Owql"
+1666110426883	Marionette	INFO	Marionette enabled
+1666110426889	Marionette	INFO	Listening on port 55889
+Read port: 55889
+WebDriver BiDi listening on ws://127.0.0.1:55880
+1666110427063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilej9Owql\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55880/devtools/browser/8db44efc-df66-4835-9546-941ca374e719
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666116860669	Marionette	INFO	Stopped listening on port 55889
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileA6l9Mr"
+1666112229909	Marionette	INFO	Marionette enabled
+1666112229915	Marionette	INFO	Listening on port 56325
+Read port: 56325
+WebDriver BiDi listening on ws://127.0.0.1:56316
+1666112230066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileA6l9Mr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56316/devtools/browser/cf040ca2-b9bb-41b9-8524-3b51b37df865
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666116861335	Marionette	INFO	Stopped listening on port 56325
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileRppTb9"
+1666116364079	Marionette	INFO	Marionette enabled
+1666116364090	Marionette	INFO	Listening on port 59299
+Read port: 59299
+WebDriver BiDi listening on ws://127.0.0.1:59290
+1666116364293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileRppTb9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59290/devtools/browser/17e57477-31ac-400a-8c6d-4705a8dd90e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666116862115	Marionette	INFO	Stopped listening on port 59299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666116879879	geckodriver	INFO	Listening on 127.0.0.1:59857
+1666116882974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileVnnLdP"
+1666116883671	Marionette	INFO	Marionette enabled
+1666116883679	Marionette	INFO	Listening on port 59889
+Read port: 59889
+WebDriver BiDi listening on ws://127.0.0.1:59858
+1666116883869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileVnnLdP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59858/devtools/browser/390d916b-9ff4-4a87-ac61-592eb5fd5a4e
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666116939775	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1628: Error: permitUnload is already running for this tab.
+ile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile4M6Fx8"
+1666116986967	Marionette	INFO	Marionette enabled
+1666116986983	Marionette	INFO	Listening on port 60126
+Read port: 60126
+WebDriver BiDi listening on ws://127.0.0.1:60115
+1666116987345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofile4M6Fx8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60115/devtools/browser/fb6b6aa4-b502-4962-b53b-0af6c667859d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+Shutting down due to socket process crash.
+1666117096913	geckodriver	INFO	Listening on 127.0.0.1:60335
+1666117099962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileGjcXFq"
+1666117100711	Marionette	INFO	Marionette enabled
+1666117100717	Marionette	INFO	Listening on port 60347
+Read port: 60347
+WebDriver BiDi listening on ws://127.0.0.1:60336
+1666117100846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileGjcXFq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60336/devtools/browser/90d3f6ec-c1f7-4182-993c-313fc83372ef
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666117566430	geckodriver	INFO	Listening on 127.0.0.1:60608
+1666117569447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilehh0tYp"
+1666117570148	Marionette	INFO	Marionette enabled
+1666117570154	Marionette	INFO	Listening on port 60618
+Read port: 60618
+WebDriver BiDi listening on ws://127.0.0.1:60609
+1666117570313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilehh0tYp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60609/devtools/browser/a9ecfcaf-9106-4c32-805e-9ff0690646fd
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666117612588	geckodriver	INFO	Listening on 127.0.0.1:60697
+1666117615621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60698" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilejlpLDx"
+1666117616629	Marionette	INFO	Marionette enabled
+1666117616636	Marionette	INFO	Listening on port 60709
+Read port: 60709
+WebDriver BiDi listening on ws://127.0.0.1:60698
+1666117616797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofilejlpLDx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60698/devtools/browser/914dc33b-1ca4-4ba9-8138-2bc3ffd0ca1d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666133908613	Marionette	INFO	Stopped listening on port 60709
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileoH6OeL"
+1666124207208	Marionette	INFO	Marionette enabled
+1666124207214	Marionette	INFO	Listening on port 54029
+WebDriver BiDi listening on ws://127.0.0.1:54020
+Read port: 54029
+1666124207433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANJISH~1\\AppData\\Local\\Temp\\rust_mozprofileoH6OeL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54020/devtools/browser/2546e8d0-113f-4baa-867b-0014c58ed46d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.noon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
